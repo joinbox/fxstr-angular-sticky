@@ -1,7 +1,7 @@
 {
-  "name": "fxstr-sticky-element",
-  "version": "0.1.0",
-  "main": "src/fxstr-sticky-element.js",
+  "name": "fxstr-angular-sticky",
+  "version": "0.1.1",
+  "main": "src/fxstr-angular-sticky.js",
   "dependencies": {
     "angular": ">=1.2.0"
   },
@@ -10,7 +10,11 @@
     "js",
     "bower.json",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
   ],
   "license": "MIT",
   "authors": [
@@ -18,8 +22,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/joinbox/fxstr-sticky-element.git"
+    "url": "git://github.com/joinbox/fxstr-angular-sticky.git"
   },
-  "homepage": "https://github.com/joinbox/fxstr-sticky-element",
-  "private": true
+  "homepage": "https://github.com/joinbox/fxstr-angular-sticky",
+  "description": "An angular directive to stick HTML elements to the viewport",
+  "keywords": [
+    "angular",
+    "sticky",
+    "directive"
+  ]
 }
