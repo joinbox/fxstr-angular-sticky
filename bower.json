@@ -1,0 +1,25 @@
+{
+  "name": "fxstr-sticky-element",
+  "version": "0.1.0",
+  "main": "src/fxstr-sticky-element.js",
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "ignore": [
+    "tests",
+    "js",
+    "bower.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "authors": [
+    "Felix Steiner"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joinbox/fxstr-sticky-element.git"
+  },
+  "homepage": "https://github.com/joinbox/fxstr-sticky-element",
+  "private": true
+}
